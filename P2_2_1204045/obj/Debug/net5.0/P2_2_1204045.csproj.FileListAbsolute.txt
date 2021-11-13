@@ -1,0 +1,16 @@
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.GeneratedMSBuildEditorConfig.editorconfig
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.AssemblyInfoInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.AssemblyInfo.cs
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.csproj.CoreCompileInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.exe
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.deps.json
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.runtimeconfig.json
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.runtimeconfig.dev.json
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.dll
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\ref\P2_2_1204045.dll
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\bin\Debug\net5.0\P2_2_1204045.pdb
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.dll
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\ref\P2_2_1204045.dll
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.pdb
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.genruntimeconfig.cache
+A:\KULIAH\Semester III\pemrogramanII\P2_2_1204045\P2_2_1204045\obj\Debug\net5.0\P2_2_1204045.csproj.AssemblyReference.cache
