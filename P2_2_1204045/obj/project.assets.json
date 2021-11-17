@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\KULIAH\\Semester III\\pemrogramanII\\P2_2_1204045\\P2_2_1204045\\P2_2_1204045.csproj",
+      "projectUniqueName": "A:\\KULIAH\\repo\\P2_2_1204045\\P2_2_1204045\\P2_2_1204045.csproj",
       "projectName": "P2_2_1204045",
-      "projectPath": "A:\\KULIAH\\Semester III\\pemrogramanII\\P2_2_1204045\\P2_2_1204045\\P2_2_1204045.csproj",
+      "projectPath": "A:\\KULIAH\\repo\\P2_2_1204045\\P2_2_1204045\\P2_2_1204045.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "A:\\KULIAH\\Semester III\\pemrogramanII\\P2_2_1204045\\P2_2_1204045\\obj\\",
+      "outputPath": "A:\\KULIAH\\repo\\P2_2_1204045\\P2_2_1204045\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

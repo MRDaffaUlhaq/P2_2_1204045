@@ -12,6 +12,7 @@ namespace P2_2_1204045
         private int normal = 0;
         private int ideal = 0;
         private int idealw = 0;
+        private int bb;
         //end var
 
         
@@ -46,6 +47,35 @@ namespace P2_2_1204045
             Console.WriteLine("Berat badan ideal untuk anda : " + idealw + " Kg");
 
         }
+        
+        public int bbnormal
+        {
+            get
+            {
+                return normal;
+            }
+            set
+            {
+                normal = value;
+            }
+        }
+        public void bbnow(int bb)
+        {
+            bb = Convert.ToInt32(Console.ReadLine());
+            if (bb > normal)
+            {
+                Console.WriteLine("Berat badan anda "+ bb + " Kg. Anda dikategorikan overweight! disarankan anda menurunkan berat badan sekitar "+ (bb - normal) + " Kg");
+            }else if (bb == normal)
+            {
+                Console.WriteLine("Berat badan anda " + bb + " Kg.");
+            }else if (bb < normal)
+            {
+                Console.WriteLine("Berat badan anda " + bb + " Kg. Anda dikategorikan unweight! disarankan anda menaikkan berat badan sekitar " + (normal - bb) + " Kg");
+            }
+        }
+
+        
+        
         //end method
     }
 }

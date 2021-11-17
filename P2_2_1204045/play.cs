@@ -20,36 +20,53 @@ namespace P2_2_1204045
             Console.Write("Masukkan jenis kelamin anda(1/ 2) : ");
             gender = Convert.ToInt32(Console.ReadLine());
 
-            int tb = 0;
-            Console.Write("Masukkan tinggi badan anda(Cm) : ");
-            tb = Convert.ToInt32(Console.ReadLine());
+            Cek count = new Cek();
 
-            if (tb >= 150)//validasi
+            if (gender == 1 || gender == 2)
             {
-                if (gender == 1)
-                {
-                    //memanggil class cek
-                    Cek count = new Cek();
+                int tb = 0;
+                Console.Write("Masukkan tinggi badan anda(Cm) : ");
+                tb = Convert.ToInt32(Console.ReadLine());
 
-                    // Memanggil method yang ada di class Cek
-                    count.Normal(tb);
-                    count.Ideal(tb);
-                    count.output();
-                }else if (gender == 2)
-                {
-                    //memanggil class cek
-                    Cek count = new Cek();
+              
 
-                    // Memanggil method yang ada di class Cek
-                    count.Normal(tb);
-                    count.Idealw(tb);
-                    count.outputw();
+                if (tb >= 150)//validasi
+                {
+                    if (gender == 1)
+                    {
+
+                        // Memanggil method yang ada di class Cek
+                        count.Normal(tb);
+                        count.Ideal(tb);
+                        count.output();
+
+                    }
+                    else if (gender == 2)
+                    {
+
+                        // Memanggil method yang ada di class Cek
+                        count.Normal(tb);
+                        count.Idealw(tb);
+                        count.outputw();
+
+                    }
                 }
+                else
+                {
+                    Console.WriteLine("Ups, tinggi badan harus diatas 150 Cm");
+                }
+
+                int Bb = 0;
+                Console.WriteLine("");
+                Console.Write("Masukkan berat badan anda saat ini (Kg) : ");
+
+                count.bbnow(Bb);
             }
             else
             {
-                Console.WriteLine("Ups, tinggi badan harus diatas 150 Cm");
+                Console.WriteLine("Ups, harap masukkan gender menggunakan angka ya (1/ 2)");
             }
+           
 
             Console.ReadKey(true);
         }
