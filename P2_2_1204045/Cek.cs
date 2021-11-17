@@ -64,13 +64,13 @@ namespace P2_2_1204045
             bb = Convert.ToInt32(Console.ReadLine());
             if (bb > normal)
             {
-                Console.WriteLine("Berat badan anda "+ bb + " Kg. Anda dikategorikan overweight! disarankan anda menurunkan berat badan sekitar "+ (bb - normal) + " Kg");
+                Console.WriteLine("Berat badan anda "+ bb + " Kg. Berat badan anda dikategorikan overweight! disarankan anda menurunkan berat badan sekitar " + (bb - normal) + " Kg");
             }else if (bb == normal)
             {
-                Console.WriteLine("Berat badan anda " + bb + " Kg.");
+                Console.WriteLine("Berat badan anda " + bb + " Kg. Selamat berat badan anda dikategorikan normal!");
             }else if (bb < normal)
             {
-                Console.WriteLine("Berat badan anda " + bb + " Kg. Anda dikategorikan unweight! disarankan anda menaikkan berat badan sekitar " + (normal - bb) + " Kg");
+                Console.WriteLine("Berat badan anda " + bb + " Kg. Berat badan anda dikategorikan under weight! disarankan anda menaikkan berat badan sekitar " + (normal - bb) + " Kg");
             }
         }
 
